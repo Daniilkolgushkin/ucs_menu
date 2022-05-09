@@ -1,3 +1,2 @@
 # ucs_menu
-Utility that prints Unicode character via xdotool.\n
-Requires xdtool and dmenu.
+Utility that prints Unicode character via xdotool. Requires xdtool and dmenu.
